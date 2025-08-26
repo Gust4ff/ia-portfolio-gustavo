@@ -31,8 +31,6 @@ Meu objetivo é desenvolver habilidades avançadas em IA, construir soluções i
 
 - Projeto 6: Classificação de tipo de fermentação de cerveja
 
-- Projeto 2: Breve descrição do que você vai desenvolver
-
 ## Contato
 
 - GitHub: [Gust4ff](https://github.com/Gust4ff)
